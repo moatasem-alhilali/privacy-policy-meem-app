@@ -1,33 +1,23 @@
 # Privacy Policy
+Introduction
+Welcome to "ميم للتسوق" by عاصم الهلالي. Your privacy is important to us, and this privacy policy explains how we handle your personal data, including your rights to delete your account.
 
-Meem Ecommerce takes your privacy seriously. To better protect your privacy, we provide this privacy policy notice explaining the way your personal information is collected and used.
+Account Deletion
+If you wish to delete your account, please follow these steps:
 
-## Collection of Routine Information
+Open the "ميم للتسوق" app.
+Navigate to the Account Settings section.
+Select the Delete Account option and confirm your decision.
+Upon deletion, the following data will be removed:
 
-This app tracks basic information about its users. This information includes, but is not limited to, IP addresses, app details, timestamps, and referring pages. None of this information can personally identify specific users of this app. The information is tracked for routine administration and maintenance purposes.
+Personal information (e.g., name, email, address)
+Order history
+Payment details
+Please note that some data may be retained for legal or security reasons for up to [X] days before permanent deletion.
 
-## Cookies
-
-Where necessary, this app uses cookies to store information about a user's preferences and history in order to better serve the user and/or present the user with customized content.
-
-## Advertisement and Other Third Parties
-
-Advertising partners and other third parties may use cookies, scripts, and/or web beacons to track user activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts, and/or web beacons that may be used by third parties. Learn how to opt-out of Google's cookie usage.
-
-## Links to Third-Party Websites
-
-We have included links on this app for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
-
-## Security
-
-The security of your personal information is important to us, but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-## Changes To This Privacy Policy
-
-This Privacy Policy is effective as of [Date] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time, and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us or by placing a prominent notice on our app.
-
-## Contact Information
-
-For any questions or concerns regarding the privacy policy, please send us an email to [Contact Email Address].
+Data Retention and Deletion
+Personal Information: Deleted immediately upon account deletion, except where retention is required by law.
+Order History: Retained for [X] days for record-keeping purposes, then permanently deleted.
+Payment Details: Removed immediately upon account deletion, except where retention is required for legal compliance.
+Contact Us
+If you have any questions or concerns about this privacy policy or your data, please contact us at [m.alhilalee@gmail.com].
